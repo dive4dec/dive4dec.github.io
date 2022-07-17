@@ -29,9 +29,9 @@
     "url": "https://github.com/jupyterlite/xeus-python-kernel.git"
   },
   "scripts": {
-    "build:dockerimage": "docker build -t jupyterlite-xeus-kernel . ",
-    "build:dockerimage_no_cache": "docker build -t jupyterlite-xeus-kernel --no-cache . ",
-    "build:emscripten": "echo $(pwd) && docker run --rm -v $(pwd):/src -u $(id -u):$(id -g) jupyterlite-xeus-kernel copy_output.sh",
+    "build:dockerimage": "docker build -t dive-jupyterlite-xeus-kernel . ",
+    "build:dockerimage_no_cache": "docker build -t dive-jupyterlite-xeus-kernel --no-cache . ",
+    "build:emscripten": "echo $(pwd) && docker run --rm -v $(pwd):/src -u $(id -u):$(id -g) dive-jupyterlite-xeus-kernel copy_output.sh",
     "copy-files": "copyfiles -u 1 src/xpython_wasm.wasm src/xpython_wasm.js src/python_data.js src/python_data.data lib",
     "build:wasm": "jlpm run build:dockerimage && jlpm run build:emscripten",
     "build:wasm_no_cache": "jlpm run build:dockerimage_no_cache && jlpm run build:emscripten",
@@ -44,7 +44,7 @@
     "build:lib": "tsc",
     "clean": "jlpm run clean:lib",
     "clean:lib": "rimraf lib tsconfig.tsbuildinfo",
-    "clean:labextension": "rimraf jupyterlite_xeus_python/labextension",
+    "clean:labextension": "rimraf dive_jupyterlite_xeus_python/labextension",
     "clean:all": "jlpm run clean:lib && jlpm run clean:labextension",
     "eslint": "eslint . --ext .ts,.tsx --fix",
     "eslint:check": "eslint . --ext .ts,.tsx",
@@ -96,7 +96,7 @@
       }
     },
     "_build": {
-      "load": "static/remoteEntry.1b0b4e903f5039d0f9a8.js",
+      "load": "static/remoteEntry.a734954a131cb138cbb5.js",
       "extension": "./extension",
       "style": "./style"
     }

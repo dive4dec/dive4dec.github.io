@@ -43,7 +43,7 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.1b0b4e903f5039d0f9a8.js",
+        "load": "static/remoteEntry.a734954a131cb138cbb5.js",
         "name": "@jupyterlite/xeus-python-kernel",
         "style": "./style"
       },
