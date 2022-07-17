@@ -19,3 +19,9 @@ jupyterlite-xeus-wren==0.2.1
 jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
+
+# DIVE
+jupyterlite-xeus-python
+jupyterlab_filesystem_access
+divewidgets
+git+https://github.com/dive4dec/xeus-python-kernel.git
