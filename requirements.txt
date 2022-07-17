@@ -24,4 +24,3 @@ theme-darcula
 jupyterlite-xeus-python
 jupyterlab_filesystem_access
 divewidgets
-git+https://github.com/dive4dec/xeus-python-kernel.git
