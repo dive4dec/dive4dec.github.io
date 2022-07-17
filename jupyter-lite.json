@@ -43,6 +43,13 @@
       {
         "extension": "./extension",
         "liteExtension": true,
+        "load": "static/remoteEntry.1b0b4e903f5039d0f9a8.js",
+        "name": "@jupyterlite/xeus-python-kernel",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
         "load": "static/remoteEntry.960d5d0f875a651e597f.js",
         "name": "@jupyterlite/xeus-sqlite-kernel",
         "style": "./style"
@@ -87,6 +94,12 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.a94ce70f234d6fa5b6ba.js",
+        "name": "jupyter-divewidgets"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.87c5f425be4cc49a1717.js",
         "name": "jupyter-leaflet"
       },
@@ -108,6 +121,13 @@
         "liteExtension": false,
         "load": "static/remoteEntry.8f896d6ad92823566c46.js",
         "name": "jupyterlab-drawio",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.de7485c567da3d5fc865.js",
+        "name": "jupyterlab-filesystem-access",
         "style": "./style"
       },
       {
