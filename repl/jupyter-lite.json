@@ -5,7 +5,8 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
-      ]
+      ],
+      "defaultKernelName": "xeus-python"
     }
   }
   
