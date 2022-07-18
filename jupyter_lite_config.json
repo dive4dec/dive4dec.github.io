@@ -1,0 +1,10 @@
+{
+    "XeusPythonEnv": {
+        "packages": [
+            "numpy",
+            "matplotlib",
+            "ipyleaflet",
+            "divewidgets",
+            "pandas"]
+    }
+}

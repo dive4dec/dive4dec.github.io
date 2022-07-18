@@ -1,0 +1,6 @@
+{
+    "jupyter-config-data": {
+        "collaborative": true,
+        "defaultKernelName": "xeus-python"
+    }
+}
