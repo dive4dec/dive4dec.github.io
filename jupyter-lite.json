@@ -2,8 +2,9 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.10",
+    "appVersion": "0.1.0-beta.11",
     "baseUrl": "./",
+    "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
@@ -31,6 +32,13 @@
         "liteExtension": true,
         "load": "static/remoteEntry.4ba93726087006d2f61b.js",
         "name": "@jupyterlite/p5-kernel-extension",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.8dcc730aedc487734a23.js",
+        "name": "@jupyterlite/webrtc-docprovider",
         "style": "./style"
       },
       {
@@ -426,10 +434,10 @@
       }
     },
     "fullLabextensionsUrl": "./extensions",
-    "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
+    "fullMathjaxUrl": "./static/jupyter_server_mathjax/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
-    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
+    "mathjaxConfig": "TeX-AMS-MML_HTMLorMML-full,Safe"
   },
   "jupyter-lite-schema-version": 0
 }

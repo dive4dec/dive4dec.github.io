@@ -1,5 +1,6 @@
 {
   "jupyter-config-data": {
+    "defaultKernelName": "xeus-python",
     "disabledExtensions": [
       "@jupyterlab/drawio-extension",
       "jupyterlab-kernel-spy",
