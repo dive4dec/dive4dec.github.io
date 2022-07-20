@@ -17,4 +17,4 @@ For **D**iscovery-**E**nriched **C**urriculum, create a virtual learning environ
   - [Demo notebook](https://dive4dec.github.io/lab?path=main.ipynb)
 
 - DIVE into Math notebooks:
-  - [Pythagorean Theorem](https://dive4dec.github.io/lab?path=pythagorean%2Fmain.ipynb)
+  - [Pythagorean Theorem](https://dive4dec.github.io/lab?path=pythagorean.ipynb)
