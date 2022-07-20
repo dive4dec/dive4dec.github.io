@@ -1,29 +1,20 @@
-# JupyterLite Demo
+# DIVE for DEC
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+## Objective
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+For **D**iscovery-**E**nriched **C**urriculum, create a virtual learning environment that is
 
-## ✨ Try it in your browser ✨
+- **D**iversified: allowing students of different backgrounds to explore easily and freely in different ways;
+- **I**nteractive: providing helpful guidance and feedback while students explore;
+- **V**ersatile: applicable to a variety of courses so students may reuse the same tools to learn different subjects; and
+- **E**ngaging: sparking students' interest and helping them excel in the subject beyond what is taught in class.
 
-➡️ **https://jupyterlite.github.io/demo**
+## Things to Try
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+- Our [homepage](https://dive4dec.github.io) powered by [JupyterLite](https://github.com/jupyterlite/jupyterlite), which can run notebooks without a server directly in modern browsers such as Firefox 90+ and Chromium 89+.
 
-## Requirements
+- DIVE Widgets:
+  - [Demo notebook](https://dive4dec.github.io/lab?path=main.ipynb)
 
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+- DIVE into Math notebooks:
+  - [Pythagorean Theorem](https://dive4dec.github.io/lab?path=pythagorean%2Fmain.ipynb)
