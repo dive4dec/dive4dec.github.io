@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-20T16:56:41.280004Z",
+      "created": "2022-07-20T17:35:35.517089Z",
       "format": null,
-      "last_modified": "2022-07-20T16:54:37.828800Z",
+      "last_modified": "2022-07-20T17:33:32.835264Z",
       "mimetype": null,
       "name": "pythagorean.ipynb",
       "path": "divemath/pythagorean.ipynb",
-      "size": 71031,
+      "size": 71057,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-07-20T16:56:41.280004Z",
+  "created": "2022-07-20T17:35:35.517089Z",
   "format": "json",
-  "last_modified": "2022-07-20T16:56:41.280004Z",
+  "last_modified": "2022-07-20T17:35:35.517089Z",
   "mimetype": null,
   "name": "divemath",
   "path": "divemath",
