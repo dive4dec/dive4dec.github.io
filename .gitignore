@@ -1,3 +1,4 @@
+python_data.*
 *.bundle.*
 lib/
 node_modules/

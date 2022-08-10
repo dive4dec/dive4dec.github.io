@@ -34,3 +34,5 @@ dive-jupyterlite-xeus-python-0.5.1.tar.gz
 jupyterlab_filesystem_access
 jupyterlab-webrtc-docprovider
 divewidgets
+divemathjax3
+divemarkdownit
