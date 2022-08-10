@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-10T05:11:11.360853Z",
+      "created": "2022-08-10T07:15:45.725142Z",
       "format": null,
-      "last_modified": "2022-08-10T05:09:42.209400Z",
+      "last_modified": "2022-08-10T07:14:19.308584Z",
       "mimetype": null,
       "name": "iwren.ipynb",
       "path": "jupyterlite-demo/xeus-wren/iwren.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-10T05:11:11.360853Z",
+  "created": "2022-08-10T07:15:45.721142Z",
   "format": "json",
-  "last_modified": "2022-08-10T05:11:11.360853Z",
+  "last_modified": "2022-08-10T07:15:45.721142Z",
   "mimetype": null,
   "name": "xeus-wren",
   "path": "jupyterlite-demo/xeus-wren",
