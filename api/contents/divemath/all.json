@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-10T07:15:45.713142Z",
+      "created": "2022-08-10T03:34:17.054302Z",
       "format": null,
-      "last_modified": "2022-08-10T07:14:19.304585Z",
+      "last_modified": "2022-07-25T20:05:08.396920Z",
       "mimetype": null,
       "name": "pythagorean.ipynb",
       "path": "divemath/pythagorean.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-10T07:15:45.713142Z",
+  "created": "2022-08-10T03:34:17.053897Z",
   "format": "json",
-  "last_modified": "2022-08-10T07:15:45.713142Z",
+  "last_modified": "2022-08-10T03:34:17.053897Z",
   "mimetype": null,
   "name": "divemath",
   "path": "divemath",
