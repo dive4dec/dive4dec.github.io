@@ -90,6 +90,20 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.dd1fb26c3665399a7b1b.js",
+        "name": "divemarkdownit",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.e6bd1eec9b5a4a6a3151.js",
+        "name": "divemathjax3",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.84a5fbcaf1830473e5a0.js",
         "name": "ipycanvas"
       },
@@ -102,7 +116,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.a94ce70f234d6fa5b6ba.js",
+        "load": "static/remoteEntry.07f126f07ba7f52c9c7e.js",
         "name": "jupyter-divewidgets"
       },
       {
@@ -134,7 +148,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.de7485c567da3d5fc865.js",
+        "load": "static/remoteEntry.9ea3561e7c3f1ce37ac9.js",
         "name": "jupyterlab-filesystem-access",
         "style": "./style"
       },
