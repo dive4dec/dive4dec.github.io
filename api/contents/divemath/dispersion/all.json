@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-11T06:16:07.670491Z",
+      "format": null,
+      "last_modified": "2022-08-11T06:14:40.515106Z",
+      "mimetype": null,
+      "name": "dispersion.ipynb",
+      "path": "divemath/dispersion/dispersion.ipynb",
+      "size": 48821,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-11T06:16:07.670103Z",
+  "format": "json",
+  "last_modified": "2022-08-11T06:16:07.670103Z",
+  "mimetype": null,
+  "name": "dispersion",
+  "path": "divemath/dispersion",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -23,11 +23,23 @@
       "size": null,
       "type": "directory",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-11T06:16:07.669601Z",
+      "format": null,
+      "last_modified": "2022-08-11T06:14:18.667774Z",
+      "mimetype": null,
+      "name": "properties.ipynb",
+      "path": "divemath/circle/properties.ipynb",
+      "size": 35904,
+      "type": "notebook",
+      "writable": true
     }
   ],
-  "created": "2022-08-11T03:31:45.437868Z",
+  "created": "2022-08-11T06:16:07.667236Z",
   "format": "json",
-  "last_modified": "2022-08-11T03:31:45.437868Z",
+  "last_modified": "2022-08-11T06:16:07.667236Z",
   "mimetype": null,
   "name": "circle",
   "path": "divemath/circle",
