@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-11T03:31:45.440501Z",
+      "format": null,
+      "last_modified": "2022-08-11T03:26:53.296148Z",
+      "mimetype": null,
+      "name": "gaussian.ipynb",
+      "path": "divemath/gaussian/gaussian.ipynb",
+      "size": 10812,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-11T03:31:45.440173Z",
+  "format": "json",
+  "last_modified": "2022-08-11T03:31:45.440173Z",
+  "mimetype": null,
+  "name": "gaussian",
+  "path": "divemath/gaussian",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

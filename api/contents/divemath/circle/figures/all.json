@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-11T03:09:48.303187Z",
+      "format": null,
+      "last_modified": "2022-08-11T03:09:05.205345Z",
+      "mimetype": "image/svg+xml",
+      "name": "q2.dio.svg",
+      "path": "divemath/circle/figures/q2.dio.svg",
+      "size": 70933,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-11T03:09:48.302811Z",
+  "format": "json",
+  "last_modified": "2022-08-11T03:09:48.302811Z",
+  "mimetype": null,
+  "name": "figures",
+  "path": "divemath/circle/figures",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

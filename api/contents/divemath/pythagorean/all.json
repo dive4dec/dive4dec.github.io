@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-11T03:31:45.443557Z",
+      "format": null,
+      "last_modified": "2022-08-11T03:25:43.598980Z",
+      "mimetype": null,
+      "name": "pythagorean.ipynb",
+      "path": "divemath/pythagorean/pythagorean.ipynb",
+      "size": 75910,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-11T03:31:45.443109Z",
+  "format": "json",
+  "last_modified": "2022-08-11T03:31:45.443109Z",
+  "mimetype": null,
+  "name": "pythagorean",
+  "path": "divemath/pythagorean",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

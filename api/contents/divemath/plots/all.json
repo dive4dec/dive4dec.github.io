@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-11T03:31:45.442667Z",
+      "format": null,
+      "last_modified": "2022-08-11T03:26:01.781521Z",
+      "mimetype": null,
+      "name": "plots.ipynb",
+      "path": "divemath/plots/plots.ipynb",
+      "size": 52749,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-11T03:31:45.442281Z",
+  "format": "json",
+  "last_modified": "2022-08-11T03:31:45.442281Z",
+  "mimetype": null,
+  "name": "plots",
+  "path": "divemath/plots",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

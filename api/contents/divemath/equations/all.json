@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-11T03:31:45.439859Z",
+      "format": null,
+      "last_modified": "2022-08-11T03:27:07.657942Z",
+      "mimetype": null,
+      "name": "equations.ipynb",
+      "path": "divemath/equations/equations.ipynb",
+      "size": 17112,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-11T03:31:45.439481Z",
+  "format": "json",
+  "last_modified": "2022-08-11T03:31:45.439481Z",
+  "mimetype": null,
+  "name": "equations",
+  "path": "divemath/equations",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-11T03:31:45.438338Z",
+      "format": null,
+      "last_modified": "2022-08-11T03:27:25.373235Z",
+      "mimetype": null,
+      "name": "circle.ipynb",
+      "path": "divemath/circle/circle.ipynb",
+      "size": 30159,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-08-11T03:09:48.302811Z",
+      "format": null,
+      "last_modified": "2022-08-11T03:09:48.302811Z",
+      "mimetype": null,
+      "name": "figures",
+      "path": "divemath/circle/figures",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-11T03:31:45.437868Z",
+  "format": "json",
+  "last_modified": "2022-08-11T03:31:45.437868Z",
+  "mimetype": null,
+  "name": "circle",
+  "path": "divemath/circle",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
