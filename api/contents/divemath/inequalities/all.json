@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-11T03:31:45.441174Z",
+      "created": "2022-10-05T18:13:05.020808Z",
       "format": null,
-      "last_modified": "2022-08-11T03:26:34.570460Z",
+      "last_modified": "2022-10-05T14:18:03.896369Z",
       "mimetype": null,
       "name": "inequalities.ipynb",
       "path": "divemath/inequalities/inequalities.ipynb",
-      "size": 67693,
+      "size": 70955,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-08-11T03:31:45.440780Z",
+  "created": "2022-10-05T18:13:05.020513Z",
   "format": "json",
-  "last_modified": "2022-08-11T03:31:45.440780Z",
+  "last_modified": "2022-10-05T18:13:05.020513Z",
   "mimetype": null,
   "name": "inequalities",
   "path": "divemath/inequalities",

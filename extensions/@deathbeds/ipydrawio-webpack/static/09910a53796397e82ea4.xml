@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "dio/stencils/cisco/hubs_and_gateways.xml";

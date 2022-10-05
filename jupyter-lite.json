@@ -2,11 +2,36 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.11",
+    "appVersion": "0.1.0-beta.13",
     "baseUrl": "./",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.584ac95805a6bd6620d6.js",
+        "mimeExtension": "./mimeExtension",
+        "name": "@deathbeds/ipydrawio"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.7c68f3def25b48ffd0c9.js",
+        "name": "@deathbeds/ipydrawio-jupyter-templates"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.598aa9a3cf6471a7270e.js",
+        "name": "@deathbeds/ipydrawio-notebook"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.18d5b4441bc600072f5b.js",
+        "name": "@deathbeds/ipydrawio-webpack"
+      },
       {
         "extension": "./extension",
         "liteExtension": false,
@@ -29,13 +54,6 @@
       },
       {
         "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
-        "name": "@jupyterlite/p5-kernel-extension",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
         "liteExtension": false,
         "load": "static/remoteEntry.8dcc730aedc487734a23.js",
         "name": "@jupyterlite/webrtc-docprovider",
@@ -44,35 +62,14 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.f69e84c5aaec83c179ca.js",
-        "name": "@jupyterlite/xeus-lua-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.a734954a131cb138cbb5.js",
+        "load": "static/remoteEntry.05c0309d9730051bf75d.js",
         "name": "@jupyterlite/xeus-python-kernel",
         "style": "./style"
       },
       {
         "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.960d5d0f875a651e597f.js",
-        "name": "@jupyterlite/xeus-sqlite-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.6e7c2ba8038680301a15.js",
-        "name": "@jupyterlite/xeus-wren-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.bf6b3192a558615425cd.js",
+        "load": "static/remoteEntry.8a4c97071917cf84832f.js",
         "name": "@telamonian/theme-darcula"
       },
       {
@@ -84,7 +81,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.af71ba374fc8128e6506.js",
+        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
         "name": "bqplot"
       },
       {
@@ -104,7 +101,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.84a5fbcaf1830473e5a0.js",
+        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
         "name": "ipycanvas"
       },
       {
@@ -122,40 +119,26 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.87c5f425be4cc49a1717.js",
+        "load": "static/remoteEntry.826666d2e0fe36d6609e.js",
         "name": "jupyter-leaflet"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.509ecd914d0df11eb8e1.js",
+        "load": "static/remoteEntry.6b5d328600b8f618f724.js",
         "name": "jupyter-matplotlib"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
-        "name": "jupyter-wren-syntax",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
-        "name": "jupyterlab-drawio",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.de7485c567da3d5fc865.js",
+        "load": "static/remoteEntry.9ea3561e7c3f1ce37ac9.js",
         "name": "jupyterlab-filesystem-access",
         "style": "./style"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.66500334d7b36213676e.js",
+        "load": "static/remoteEntry.249e02ea9427f8cca2ad.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
@@ -171,6 +154,13 @@
         "liteExtension": false,
         "load": "static/remoteEntry.aa1060b2d1221f8e5688.js",
         "name": "jupyterlab_pygments",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.c23f79f753b2dfd38a69.js",
+        "name": "nbgrader",
         "style": "./style"
       }
     ],
@@ -451,21 +441,7 @@
     "fullMathjaxUrl": "./static/jupyter_server_mathjax/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
-    "mathjaxConfig": "TeX-AMS-MML_HTMLorMML-full,Safe",
-    "settingsOverrides": {
-      "@jupyterlite/webrtc-docprovider:plugin": {
-        "disabled": false,
-        "room": "demo",
-        "roomPrefix": "dive4dec1111",
-        "signalingUrls": [
-          "wss://y-webrtc-signaling-eu.herokuapp.com",
-          "wss://y-webrtc-signaling-us.herokuapp.com",
-          "wss://signaling.yjs.dev"
-        ],
-        "usercolor": "f57c00",
-        "username": "Anonymous User"
-      }
-    }
+    "mathjaxConfig": "TeX-AMS-MML_HTMLorMML-full,Safe"
   },
   "jupyter-lite-schema-version": 0
 }

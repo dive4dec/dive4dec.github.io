@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-11T03:09:48.303187Z",
+      "created": "2022-10-05T18:13:05.018064Z",
       "format": null,
-      "last_modified": "2022-08-11T03:09:05.205345Z",
+      "last_modified": "2022-10-05T07:49:50.367787Z",
       "mimetype": "image/svg+xml",
       "name": "q2.dio.svg",
       "path": "divemath/circle/figures/q2.dio.svg",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-11T03:09:48.302811Z",
+  "created": "2022-10-05T18:13:05.017760Z",
   "format": "json",
-  "last_modified": "2022-08-11T03:09:48.302811Z",
+  "last_modified": "2022-10-05T18:13:05.017760Z",
   "mimetype": null,
   "name": "figures",
   "path": "divemath/circle/figures",

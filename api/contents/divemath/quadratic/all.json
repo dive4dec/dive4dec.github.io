@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-11T03:31:45.444468Z",
+      "created": "2022-10-05T18:13:05.022647Z",
       "format": null,
-      "last_modified": "2022-08-11T03:25:25.583578Z",
+      "last_modified": "2022-10-05T14:18:03.898134Z",
       "mimetype": null,
       "name": "quadratic.ipynb",
       "path": "divemath/quadratic/quadratic.ipynb",
-      "size": 47920,
+      "size": 46001,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-08-11T03:31:45.444048Z",
+  "created": "2022-10-05T18:13:05.022388Z",
   "format": "json",
-  "last_modified": "2022-08-11T03:31:45.444048Z",
+  "last_modified": "2022-10-05T18:13:05.022388Z",
   "mimetype": null,
   "name": "quadratic",
   "path": "divemath/quadratic",

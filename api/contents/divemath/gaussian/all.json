@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-11T06:38:19.134005Z",
+      "created": "2022-10-05T18:13:05.020360Z",
       "format": null,
-      "last_modified": "2022-08-11T06:38:12.767990Z",
+      "last_modified": "2022-10-05T14:18:03.895872Z",
       "mimetype": null,
       "name": "gaussian.ipynb",
       "path": "divemath/gaussian/gaussian.ipynb",
-      "size": 21104,
+      "size": 16214,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-08-11T06:38:19.133820Z",
+  "created": "2022-10-05T18:13:05.020104Z",
   "format": "json",
-  "last_modified": "2022-08-11T06:38:19.133820Z",
+  "last_modified": "2022-10-05T18:13:05.020104Z",
   "mimetype": null,
   "name": "gaussian",
   "path": "divemath/gaussian",

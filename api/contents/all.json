@@ -2,33 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-20T11:23:37.530974Z",
+      "created": "2022-10-05T18:13:05.023486Z",
       "format": null,
-      "last_modified": "2022-07-18T07:37:09.043857Z",
+      "last_modified": "2022-10-05T18:12:38.564320Z",
       "mimetype": null,
       "name": "main.ipynb",
       "path": "main.ipynb",
-      "size": 5622,
+      "size": 15471,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-07-18T02:20:59.449276Z",
+      "created": "2022-10-05T18:13:05.022751Z",
       "format": null,
-      "last_modified": "2022-07-18T02:20:59.449276Z",
-      "mimetype": null,
-      "name": "jupyterlite-demo",
-      "path": "jupyterlite-demo",
-      "size": null,
-      "type": "directory",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-08-11T06:32:45.924388Z",
-      "format": null,
-      "last_modified": "2022-08-11T06:32:45.924388Z",
+      "last_modified": "2022-10-05T18:13:05.022751Z",
       "mimetype": null,
       "name": "divemath",
       "path": "divemath",
@@ -37,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-10T03:34:17.053797Z",
+  "created": "2022-10-05T18:13:05.023236Z",
   "format": "json",
-  "last_modified": "2022-08-10T03:34:17.053797Z",
+  "last_modified": "2022-10-05T18:13:05.023236Z",
   "mimetype": null,
   "name": "",
   "path": "",

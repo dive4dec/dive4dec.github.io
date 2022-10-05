@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-11T06:16:07.674030Z",
+      "created": "2022-10-05T18:13:05.023099Z",
       "format": null,
-      "last_modified": "2022-08-11T06:13:38.784734Z",
+      "last_modified": "2022-10-05T14:18:03.898493Z",
       "mimetype": null,
       "name": "trigonometry.ipynb",
       "path": "divemath/trigonometry/trigonometry.ipynb",
-      "size": 72980,
+      "size": 77069,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-08-11T06:16:07.673547Z",
+  "created": "2022-10-05T18:13:05.022810Z",
   "format": "json",
-  "last_modified": "2022-08-11T06:16:07.673547Z",
+  "last_modified": "2022-10-05T18:13:05.022810Z",
   "mimetype": null,
   "name": "trigonometry",
   "path": "divemath/trigonometry",

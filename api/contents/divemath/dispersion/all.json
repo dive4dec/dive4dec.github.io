@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-11T06:16:07.670491Z",
+      "created": "2022-10-05T18:13:05.018986Z",
       "format": null,
-      "last_modified": "2022-08-11T06:14:40.515106Z",
+      "last_modified": "2022-10-05T14:18:03.895292Z",
       "mimetype": null,
       "name": "dispersion.ipynb",
       "path": "divemath/dispersion/dispersion.ipynb",
-      "size": 48821,
+      "size": 48104,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-08-11T06:16:07.670103Z",
+  "created": "2022-10-05T18:13:05.018677Z",
   "format": "json",
-  "last_modified": "2022-08-11T06:16:07.670103Z",
+  "last_modified": "2022-10-05T18:13:05.018677Z",
   "mimetype": null,
   "name": "dispersion",
   "path": "divemath/dispersion",
