@@ -4,35 +4,21 @@ ipyevents>=2.0.1
 ipyleaflet
 ipympl>=0.8.2
 ipywidgets>=7.7,<8
-jupyterlab~=3.4.3
-jupyterlab-drawio
+jupyterlab~=3.4.5
+ipydrawio
+ipydrawio-widgets
 jupyterlab-language-pack-zh-TW
 jupyterlab-language-pack-zh-CN
-jupyterlab-fasta>=3,<4
-jupyterlab-geojson>=3,<4
 jupyterlab-tour
 jupyterlab_miami_nights
 
 # jupyterlite
-jupyterlite==0.1.0b11
+jupyterlite==0.1.0b13
 jupyterlite[contents] # jupyter_server for contents API indexing
 jupyterlite[serve]    # tornado for better local previewing with `serve`
 jupyterlite[piplite]  # pkginfo for reading wheel metadata for the pyolite kernel
 jupyterlite[mathjax]  # reuse the MathJax assets from jupyter-server-mathjax
 jupyterlite[check]    # validate more data with jsonschema
 jupyterlite[lab]      # a known-compatible jupyterlab (entails `contents`, `serve`, `check`)
-
-jupyterlite-p5-kernel==0.1.0a12
-jupyterlite-xeus-lua==0.3.1
-jupyterlite-xeus-wren==0.2.1
-jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
-
-# DIVE
-dive-jupyterlite-xeus-python-0.5.1.tar.gz
-jupyterlab_filesystem_access
-jupyterlab-webrtc-docprovider
-divewidgets
-divemathjax3
-divemarkdownit
